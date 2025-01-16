@@ -1,0 +1,136 @@
+{
+    "ExemploCiclistas": {
+        "Exemplo-1": {
+            "ciclista": {
+                "nome": "Maria Silva",
+                "nascimento": "2000-01-01",
+                "cpf": "55023133010",
+                "passaporte": {
+                    "numero": "AB1234567",
+                    "validade": "2025-12-20",
+                    "pais": "BR"
+                },
+                "nacionalidade": "BRASILEIRO",
+                "email": "user@example.com",
+                "urlFotoDocumento": "string",
+                "senha": "string"
+            },
+            "meioDePagamento": {
+                "nomeTitular": "MARIA SILVA",
+                "numero": "78845016185506627181370",
+                "validade": "2025-12-20",
+                "cvv": "123"
+            }
+        },
+        "Exemplo-2": {
+            "ciclista": {
+                "nome": "Carlos Pereira",
+                "nascimento": "1995-06-15",
+                "cpf": "40662243005",
+                "passaporte": {
+                    "numero": "XY9876543",
+                    "validade": "2027-03-15",
+                    "pais": "BR"
+                },
+                "nacionalidade": "BRASILEIRO",
+                "email": "carlos.pereira@example.com",
+                "urlFotoDocumento": "http://example.com/foto_carlos.jpg",
+                "senha": "senhaSegura123"
+            },
+            "meioDePagamento": {
+                "nomeTitular": "CARLOS PEREIRA",
+                "numero": "12345678123456781234567890",
+                "validade": "2026-11-10",
+                "cvv": "987"
+            }
+        },
+        "Exemplo-3": {
+            "ciclista": {
+                "nome": "Ana Costa",
+                "nascimento": "1988-12-22",
+                "cpf": "88832564092",
+                "passaporte": {
+                    "numero": "GH6543210",
+                    "validade": "2028-05-10",
+                    "pais": "BR"
+                },
+                "nacionalidade": "BRASILEIRO",
+                "email": "ana.costa@example.com",
+                "urlFotoDocumento": "http://example.com/foto_ana.jpg",
+                "senha": "minhaSenha123"
+            },
+            "meioDePagamento": {
+                "nomeTitular": "ANA COSTA",
+                "numero": "45678912345678901234567890",
+                "validade": "2027-04-25",
+                "cvv": "432"
+            }
+        },
+        "Exemplo-4": {
+            "ciclista": {
+                "nome": "João Souza",
+                "nascimento": "1990-08-30",
+                "cpf": "38194670098",
+                "passaporte": {
+                    "numero": "LM3456789",
+                    "validade": "2026-09-18",
+                    "pais": "BR"
+                },
+                "nacionalidade": "BRASILEIRO",
+                "email": "joao.souza@example.com",
+                "urlFotoDocumento": "http://example.com/foto_joao.jpg",
+                "senha": "senha123456"
+            },
+            "meioDePagamento": {
+                "nomeTitular": "JOÃO SOUZA",
+                "numero": "12398765432109876543210987",
+                "validade": "2025-07-15",
+                "cvv": "654"
+            }
+        },
+        "Exemplo-5": {
+            "ciclista": {
+                "nome": "Pedro Almeida",
+                "nascimento": "1992-11-11",
+                "cpf": "29418074036",
+                "passaporte": {
+                    "numero": "KL1122334",
+                    "validade": "2029-01-05",
+                    "pais": "BR"
+                },
+                "nacionalidade": "BRASILEIRO",
+                "email": "pedro.almeida@example.com",
+                "urlFotoDocumento": "http://example.com/foto_pedro.jpg",
+                "senha": "senhaSecreta123"
+            },
+            "meioDePagamento": {
+                "nomeTitular": "PEDRO ALMEIDA",
+                "numero": "98765432123456781234567891",
+                "validade": "2028-02-20",
+                "cvv": "876"
+            }
+        },
+        "Exemplo-6": {
+            "ciclista": {
+                "nome": "Luciana Oliveira",
+                "nascimento": "1998-05-18",
+                "cpf": "94189080004",
+                "passaporte": {
+                    "numero": "IJ5432109",
+                    "validade": "2027-06-28",
+                    "pais": "BR"
+                },
+                "nacionalidade": "BRASILEIRO",
+                "email": "luciana.oliveira@example.com",
+                "urlFotoDocumento": "http://example.com/foto_luciana.jpg",
+                "senha": "lucianaSenha789"
+            },
+            "meioDePagamento": {
+                "nomeTitular": "LUCIANA OLIVEIRA",
+                "numero": "14725836901234567890123456",
+                "validade": "2026-09-09",
+                "cvv": "321"
+            }
+        }
+    }
+}
